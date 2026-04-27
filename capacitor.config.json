@@ -1,0 +1,9 @@
+{
+  "appId": "com.oldgold.app",
+  "appName": "OldGold",
+  "webDir": "www",
+  "server": {
+    "url": "https://oldgold.lovable.app",
+    "cleartext": true
+  }
+}
